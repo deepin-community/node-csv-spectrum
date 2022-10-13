@@ -1,0 +1,18 @@
+node-csv-spectrum (1.0.0-2) unstable; urgency=medium
+
+  * Team upload
+
+  [ Paolo Greppi ]
+  * Update Vcs fields for migration to https://salsa.debian.org/
+
+  [ Pirate Praveen ]
+  * Bump Standards-Version to 4.2.0 (no changes needed)
+  * Bump debhelper compatibility level to 11
+
+ -- Pirate Praveen <praveen@debian.org>  Sat, 25 Aug 2018 09:52:02 +0530
+
+node-csv-spectrum (1.0.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #880059 )
+
+ -- Archana <archana@disroot.org>  Sun, 29 Oct 2017 09:30:33 +0000
