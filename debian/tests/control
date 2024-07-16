@@ -1,5 +1,0 @@
-Tests: require
-Depends: node-csv-spectrum
-
-Test-Command: node test
-Depends: @,
