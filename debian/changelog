@@ -1,3 +1,31 @@
+node-csv-spectrum (1.0.0-3) unstable; urgency=medium
+
+  * Team upload
+
+  [ Debian Janitor ]
+  * Apply multi-arch hints.
+    + node-csv-spectrum: Add Multi-Arch: foreign.
+  * Trim trailing whitespace.
+  * Use secure copyright file specification URI.
+  * Bump debhelper from old 11 to 12.
+  * Set debhelper-compat version in Build-Depends.
+  * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository,
+    Repository-Browse.
+  * Update standards version to 4.2.1, no changes needed.
+
+  [ Yadd ]
+  * Bump debhelper from old 12 to 13.
+  * Declare compliance with policy 4.6.0
+  * Add "Rules-Requires-Root: no"
+  * Add debian/gbp.conf
+  * Modernize debian/watch
+    * Fix filenamemangle
+    * Fix GitHub tags regex
+  * Drop dependency to nodejs
+  * Use dh-sequence-nodejs auto test & install
+
+ -- Yadd <yadd@debian.org>  Sun, 21 Nov 2021 14:34:10 +0100
+
 node-csv-spectrum (1.0.0-2) unstable; urgency=medium
 
   * Team upload
